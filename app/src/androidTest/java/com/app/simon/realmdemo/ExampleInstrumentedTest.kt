@@ -1,4 +1,4 @@
-package com.app.simon.reamldemo
+package com.app.simon.realmdemo
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

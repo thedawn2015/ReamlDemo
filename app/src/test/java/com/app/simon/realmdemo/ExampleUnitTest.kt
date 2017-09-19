@@ -1,4 +1,4 @@
-package com.app.simon.reamldemo
+package com.app.simon.realmdemo
 
 import org.junit.Test
 
